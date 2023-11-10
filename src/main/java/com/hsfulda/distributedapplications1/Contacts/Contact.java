@@ -1,4 +1,4 @@
-package com.hsfulda.distributedapplications1.model;
+package com.hsfulda.distributedapplications1.Contacts;
 
 import jakarta.persistence.*;
 

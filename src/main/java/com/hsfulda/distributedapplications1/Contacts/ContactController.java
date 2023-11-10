@@ -1,7 +1,5 @@
-package com.hsfulda.distributedapplications1.controller;
+package com.hsfulda.distributedapplications1.Contacts;
 
-import com.hsfulda.distributedapplications1.model.Contact;
-import com.hsfulda.distributedapplications1.repository.ContactRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
